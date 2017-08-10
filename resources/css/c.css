@@ -15,9 +15,10 @@ h1 {
   color: white;
 }
 
-.list a {
+.link  {
   font-size: 18px;
   color: white;
+  display: block;
 }
 
 .header {
